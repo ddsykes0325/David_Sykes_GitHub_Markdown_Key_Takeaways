@@ -7,3 +7,4 @@ The first thing that I would like to share about __GitHub__ is that:
 3. __Branching__: I would like to think of branching is when software engineers make copies of the main code which is called a branch to safely work on and experiment with by adding features, or fix bugs without breaking the main software or project.
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
+__Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request.
