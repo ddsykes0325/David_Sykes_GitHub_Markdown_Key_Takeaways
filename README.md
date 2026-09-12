@@ -18,5 +18,4 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 1. __Plain Text__: I would like to share that Markdown is plain text which you can write using ordinary letters and numbers.
 2. __Special Symbols__: Markdown uses special symbols which you can add basic characters like asterisks or hash signs to show headings or bold text.
 3. __Converison__: Markdown guide parser or processor reads the symbols and turns the file into a clean __HTML__ file for the web browser.
-4. 
-5. 
+4. __How it Works__: Symbols like hashtags (#) make headings, asterisks (*) make text bold or italic and brackets [] create links in Markdown.
