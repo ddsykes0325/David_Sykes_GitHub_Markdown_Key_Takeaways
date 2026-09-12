@@ -8,3 +8,6 @@ The first thing that I would like to share about __GitHub__ is that:
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
 __Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request.
+
+# 4 Key things about Markdown
+__Markdown__ is a lightweight markup language that uses simple keyboard symbols that format plain text. John Gruber created Markdown in 2004 as an easy to read markup langauge.
