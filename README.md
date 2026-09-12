@@ -9,7 +9,7 @@ The first thing that I would like to share about __GitHub__ is that:
 3. __Branching__: I would like to think of branching is when software engineers make copies of the main code which is called a branch to safely work on and experiment with by adding features, or fix bugs without breaking the main software or project.
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
-__Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request. You can learn more about GitHUb as the following URL: [https://github.com]
+__Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request. You can learn more about GitHUb as the following URL: [https://github.com].
 
 4 Key things about Markdown
 =============================
@@ -20,5 +20,5 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 3. __Converison__: Markdown guide parser or processor reads the symbols and turns the file into a clean __HTML__ file for the web browser.
 4. __How it Works__: Symbols like hashtags (#) make headings, asterisks (*) make text bold or italic and brackets [] create links in Markdown.
 
-__Conclusion__: Markdown is a markup language for formatting text by using a plain text editor. Markdown was created by John Gruber back in 2004 as an easy way to write markup languages. Common usages for Markdown are for blogging, instant messaging and large language models. 
+__Conclusion__: Markdown is a markup language for formatting text by using a plain text editor. Markdown was created by John Gruber back in 2004 as an easy way to write markup languages. Common usages for Markdown are for blogging, instant messaging and large language models. You can learn more about Markdown by going the the Markdown Guide at: [https://www.markdownguide.org/getting-started/]. 
    
