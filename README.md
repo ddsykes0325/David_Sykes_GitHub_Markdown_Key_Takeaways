@@ -4,9 +4,9 @@
 
 # 4 Key Takeaways Things to Learn about GitHub and Markdown
   
-## Introduction and 4 Key things about GitHub 
+  ![Image of the GitHub button](github.png)
 
-![Image of the GitHub button](github.png)
+## Introduction and 4 Key things about GitHub 
 
 __GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  
 > How __GitHub__ works is that it is built on Git, which is an open-source system that tracks changes to files. Some of the key features that __GitHub__ has are as follows:
