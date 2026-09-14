@@ -1,4 +1,4 @@
-
+# 4 Key Takeaways Things about GitHub and Markdown 
   4 Key things about GitHub 
  ========================================
 __GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  How GitHub works is that it id built on Git, which is an open-source system that tracks changes to files. 
