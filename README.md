@@ -14,12 +14,12 @@ The first thing that I would like to share about __GitHub__ is that:
 3. __Branching__: I would like to think of branching is when software engineers make copies of the main code which is called a branch to safely work on and experiment with by adding features, or fix bugs without breaking the main software or project.
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
-Key features about GitHub
+# 4 Key features about GitHub
 =========================================
--  Issue Tracking: GitHub is a tool that you can report bugs, request new software features and assign tasks.
--  GitHub Actions: GitHub allows for automated workflows (CI/CD) to test and deploy code.
--  GitHub Copilot: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
--  Public and Private Repositories: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
+-  __Issue Tracking__: GitHub is a tool that you can report bugs, request new software features and assign tasks.
+-  __GitHub Actions__: GitHub allows for automated workflows (CI/CD) to test and deploy code.
+-  __GitHub Copilot__: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
+-  __Public and Private Repositories__: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
   
 __Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request. You can learn more about GitHUb as the following URL: [https://github.com].
 
