@@ -1,6 +1,6 @@
 
 
-![Alt text](image-url-or-path)
+![GitHub]()
 
 # 4 Key Takeaways Things about GitHub and Markdown: 
   4 Key things about GitHub 
