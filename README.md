@@ -23,7 +23,7 @@ The first thing that I would like to share about __GitHub__ is that:
   
 __Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request. You can learn more about GitHUb as the following URL: [https://github.com].
 
-![Markdown](https://img.icons8.com/?size=100&id=21812&format=png)
+![Markdown Image](https://img.icons8.com/?size=100&id=21812&format=png)
 
 ## Introduction and 4 Key things about Markdown
 __Markdown__ is a lightweight markup language that uses simple keyboard symbols that format plain text. 
