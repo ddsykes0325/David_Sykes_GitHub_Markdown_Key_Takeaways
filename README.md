@@ -6,7 +6,14 @@
 # 4 Key Takeaways Things to Learn about GitHub and Markdown: 
   4 Key things about GitHub 
  ========================================
-__GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  How __GitHub__ works is that it id built on Git, which is an open-source system that tracks changes to files. 
+__GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  How __GitHub__ works is that it is built on Git, which is an open-source system that tracks changes to files. Some of the key features that __GitHub__ has are as follows:
+
+Key features about GitHub
+=========================================
+-  Issue Tracking: GitHub is a tool that you can report bugs, request new software features and assign tasks.
+-  GitHub Actions: GitHub allows for automated workflows (CI/CD) to test and deploy code.
+-  GitHub Copilot: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
+-  Public and Private Repositories: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
 
 The first thing that I would like to share about __GitHub__ is that:
 1. __Repositories__: I would like to think of a repository (or __repo__) as a project folder that holds all the files and revision history for a piece of software.
