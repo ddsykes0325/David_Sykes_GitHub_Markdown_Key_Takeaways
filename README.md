@@ -35,7 +35,7 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
  # 4 Key features about Markdown
 -  __Simplicity__: Markdown is easy to type and punctuate which (like # heading or ## for bold text) instead of complex HTML tags.
 -  __Readability__: Markdown is a raw text file that remains human-readable even without being rendered or converted. 
--  __Portability__: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
+-  __Portability__: Markdown files are easy to save as plain text (usually as a __.md__ extension) which you can open and edit in any text editor across any operating system.
 -  __Versatility__: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
   
 
