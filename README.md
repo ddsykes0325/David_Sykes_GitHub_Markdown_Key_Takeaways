@@ -1,7 +1,7 @@
 
 
 ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png)
-![Markdown](https://img.icons8.com/?size=100&id=21812&format=png)
+
 
 # 4 Key Takeaways Things about GitHub and Markdown: 
   4 Key things about GitHub 
@@ -15,6 +15,8 @@ The first thing that I would like to share about __GitHub__ is that:
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
 __Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request. You can learn more about GitHUb as the following URL: [https://github.com].
+
+![Markdown](https://img.icons8.com/?size=100&id=21812&format=png)
 
 4 Key things about Markdown
 =============================
