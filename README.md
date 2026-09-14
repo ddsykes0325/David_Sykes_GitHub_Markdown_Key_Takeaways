@@ -43,6 +43,12 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 -  __Portability__: Markdown files are easy to save as plain text (usually as a __.md__ extension) which you can open and edit in any text editor across any operating system.
 -  __Versatility__: Markdown is easy to convert to HTML, PDF and other formats, making it popular for web publishing, software documentation and AI tools.
 
+I would like to include some Markdown commands in the table format to provide you with a few examples:
+
+| Markdown Sytnax | What is means |   
+|-----------------|---------------|
+
+
 __Conclusion__: Markdown is a markup language for formatting text by using a plain text editor. Markdown was created by John Gruber back in 2004 as an easy way to write markup languages. Common usages for Markdown are for blogging, instant messaging and large language models. You can learn more about Markdown by going the the Markdown Guide at: [https://www.markdownguide.org/getting-started/]. 
    
 ## Key Resources to learn more about GitHub and Markdown (URL's)
