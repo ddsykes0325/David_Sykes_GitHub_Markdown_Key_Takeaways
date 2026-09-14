@@ -1,6 +1,6 @@
 
 
-  ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png)
+  ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png).
 
 # 4 Key Takeaways Things to Learn about GitHub and Markdown
   
@@ -40,3 +40,6 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 
 __Conclusion__: Markdown is a markup language for formatting text by using a plain text editor. Markdown was created by John Gruber back in 2004 as an easy way to write markup languages. Common usages for Markdown are for blogging, instant messaging and large language models. You can learn more about Markdown by going the the Markdown Guide at: [https://www.markdownguide.org/getting-started/]. 
    
+# Key Resources to learn more about GitHub and Markdown (URL's)
+- [https://docs.github.com/en/get-started/start-your-journey/what-is-github]
+- []
