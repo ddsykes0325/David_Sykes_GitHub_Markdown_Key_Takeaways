@@ -16,8 +16,8 @@ The first thing that I would like to share about __GitHub__ is that:
 
 # 4 Key features about GitHub
 -  __Issue Tracking__: GitHub is a tool that you can report bugs, request new software features and assign tasks.
--  __GitHub Actions__: GitHub allows for automated workflows (CI/CD) to test and deploy code.
--  __GitHub Copilot__: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
+-  __Readability__: Markdown is raw text files that is completely human-readable even without being rendered or converted.
+-  __Portability__: Markdown is a file that can be saved as plain text( usually with an __.md__ extension) so that you can open and edit it with any text editor across different operating systems.
 -  __Public and Private Repositories__: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
   
 __Conclusion__: GitHub is a platform that allows software engineers to create, store, manage and share their code. It uses Git to provide distributed version control and GitHub provides access control, bug tracking and software features request. You can learn more about GitHUb as the following URL: [https://github.com].
