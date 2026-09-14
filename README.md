@@ -15,7 +15,6 @@ The first thing that I would like to share about __GitHub__ is that:
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
 # 4 Key features about GitHub
-=========================================
 -  __Issue Tracking__: GitHub is a tool that you can report bugs, request new software features and assign tasks.
 -  __GitHub Actions__: GitHub allows for automated workflows (CI/CD) to test and deploy code.
 -  __GitHub Copilot__: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
