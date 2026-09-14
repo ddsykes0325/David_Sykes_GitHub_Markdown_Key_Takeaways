@@ -25,8 +25,7 @@ __Conclusion__: GitHub is a platform that allows software engineers to create, s
 
 ![Markdown](https://img.icons8.com/?size=100&id=21812&format=png)
 
-4 Key things about Markdown
-=============================
+# 4 Key things about Markdown
 __Markdown__ is a lightweight markup language that uses simple keyboard symbols that format plain text. John Gruber created Markdown in 2004 as an easy to read markup language. Markdown is one of the world's most popular markup language. The first thing that I would like to share about __Markdown__ is that:
 
 1. __Plain Text__: I would like to share that Markdown is plain text which you can write using ordinary letters and numbers.
