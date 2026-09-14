@@ -6,7 +6,8 @@
   
 ## Introduction and 4 Key things about GitHub 
 
-__GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  How __GitHub__ works is that it is built on Git, which is an open-source system that tracks changes to files. Some of the key features that __GitHub__ has are as follows:
+__GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  
+> How __GitHub__ works is that it is built on Git, which is an open-source system that tracks changes to files. Some of the key features that __GitHub__ has are as follows:
 
 The first thing that I would like to share about __GitHub__ is that:
 1. __Repositories__: I would like to think of a repository (or __repo__) as a project folder that holds all the files and revision history for a piece of software.
@@ -25,7 +26,9 @@ __Conclusion__: GitHub is a platform that allows software engineers to create, s
 ![Markdown](https://img.icons8.com/?size=100&id=21812&format=png)
 
 ## Introduction and 4 Key things about Markdown
-__Markdown__ is a lightweight markup language that uses simple keyboard symbols that format plain text. John Gruber created Markdown in 2004 as an easy to read markup language. Markdown is one of the world's most popular markup language. The first thing that I would like to share about __Markdown__ is that:
+__Markdown__ is a lightweight markup language that uses simple keyboard symbols that format plain text. 
+
+> John Gruber created Markdown in 2004 as an easy to read markup language. Markdown is one of the world's most popular markup language. The first thing that I would like to share about __Markdown__ is that:
 
 1. __Plain Text__: I would like to share that Markdown is plain text which you can write using ordinary letters and numbers.
 2. __Special Symbols__: Markdown uses special symbols which you can add basic characters like asterisks or hash signs to show headings or bold text.
