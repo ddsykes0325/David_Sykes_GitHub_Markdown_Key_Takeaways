@@ -1,6 +1,7 @@
 
 
 ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png)
+![Markdown](https://img.icons8.com/?size=100&id=12599&format=png)
 
 # 4 Key Takeaways Things about GitHub and Markdown: 
   4 Key things about GitHub 
