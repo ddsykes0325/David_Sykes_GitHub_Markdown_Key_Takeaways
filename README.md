@@ -47,11 +47,11 @@ __Conclusion__: Markdown is a markup language for formatting text by using a pla
    
 ## Key Resources to learn more about GitHub and Markdown (URL's)
 
-## GitHub
+## GitHub Links
 - [https://docs.github.com/en/get-started/start-your-journey/what-is-github]
 - [https://www.coursera.org/articles/what-is-github]
 - [https://en.wikipedia.org/wiki/GitHub]
-## Markdown
+## Markdown Links
 - [https://en.wikipedia.org/wiki/Markdown]
 - [https://www.markdownguide.org/getting-started/]
 - [https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown]
