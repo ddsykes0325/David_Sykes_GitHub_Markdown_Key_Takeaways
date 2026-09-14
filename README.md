@@ -2,11 +2,10 @@
 
   ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png)
 
-
 # 4 Key Takeaways Things to Learn about GitHub and Markdown
   
 ## Introduction and 4 Key things about GitHub 
- ========================================
+
 __GitHub__ is a cloud-base web platform used by software engineers to store, share and collaborate on software code.  How __GitHub__ works is that it is built on Git, which is an open-source system that tracks changes to files. Some of the key features that __GitHub__ has are as follows:
 
 The first thing that I would like to share about __GitHub__ is that:
@@ -15,7 +14,7 @@ The first thing that I would like to share about __GitHub__ is that:
 3. __Branching__: I would like to think of branching is when software engineers make copies of the main code which is called a branch to safely work on and experiment with by adding features, or fix bugs without breaking the main software or project.
 4. __Pull Request__: Pull request are when changes are ready and a software engineer opens a pull request to propose merging their branch back into the main code. This allows team members to review the work after the changes.
 
-# 4 Key features about GitHub
+##  4 Key features about GitHub
 -  __Issue Tracking__: GitHub is a tool that you can report bugs, request new software features and assign tasks.
 -  __Readability__: Markdown is raw text files that is completely human-readable even without being rendered or converted.
 -  __Portability__: Markdown is a file that can be saved as plain text( usually with an __.md__ extension) so that you can open and edit it with any text editor across different operating systems.
@@ -33,7 +32,7 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 3. __Converison__: Markdown guide parser or processor reads the symbols and turns the file into a clean __HTML__ file for the web browser.
 4. __How it Works__: Symbols like hashtags (#) make headings, asterisks (*) make text bold or italic and brackets [] create links in Markdown.
 
- # 4 Key features about Markdown
+ ##  4 Key features about Markdown
 -  __Simplicity__: Markdown is easy to type and punctuate which (like # heading or ## for bold text) instead of complex HTML tags.
 -  __Readability__: Markdown is a raw text file that remains human-readable even without being rendered or converted. 
 -  __Portability__: Markdown files are easy to save as plain text (usually as a __.md__ extension) which you can open and edit in any text editor across any operating system.
