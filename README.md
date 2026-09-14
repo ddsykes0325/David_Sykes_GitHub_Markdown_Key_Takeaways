@@ -1,3 +1,6 @@
+
+
+[![GitHub and Markdown image]]()
 # 4 Key Takeaways Things about GitHub and Markdown: 
   4 Key things about GitHub 
  ========================================
