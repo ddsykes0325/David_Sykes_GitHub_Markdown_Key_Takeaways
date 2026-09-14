@@ -34,7 +34,7 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 
  # 4 Key features about Markdown
 -  __Simplicity__: Markdown is easy to type and punctuate which (like # heading or ## for bold text) instead of complex HTML tags.
--  __GitHub Actions__: GitHub allows for automated workflows (CI/CD) to test and deploy code.
+-  __Readability__: Markdown is a raw text file that remains human-readable even without being rendered or converted. 
 -  __GitHub Copilot__: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
 -  __Public and Private Repositories__: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
   
