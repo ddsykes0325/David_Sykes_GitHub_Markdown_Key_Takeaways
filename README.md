@@ -32,5 +32,12 @@ __Markdown__ is a lightweight markup language that uses simple keyboard symbols 
 3. __Converison__: Markdown guide parser or processor reads the symbols and turns the file into a clean __HTML__ file for the web browser.
 4. __How it Works__: Symbols like hashtags (#) make headings, asterisks (*) make text bold or italic and brackets [] create links in Markdown.
 
+   # 4 Key features about Markdown
+-  __Issue Tracking__: GitHub is a tool that you can report bugs, request new software features and assign tasks.
+-  __GitHub Actions__: GitHub allows for automated workflows (CI/CD) to test and deploy code.
+-  __GitHub Copilot__: This part of GitHub allows for artificial intelligence to aid with writing and fixing code.
+-  __Public and Private Repositories__: Part of GitHub that is a free hosting for open-source public code and options for private team projects.
+  
+
 __Conclusion__: Markdown is a markup language for formatting text by using a plain text editor. Markdown was created by John Gruber back in 2004 as an easy way to write markup languages. Common usages for Markdown are for blogging, instant messaging and large language models. You can learn more about Markdown by going the the Markdown Guide at: [https://www.markdownguide.org/getting-started/]. 
    
