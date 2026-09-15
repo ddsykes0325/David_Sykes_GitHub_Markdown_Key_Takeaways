@@ -49,6 +49,7 @@ I would like to include some Markdown commands in the table format to provide yo
 |-----------------|---------------|
 | # H1            | Heading       |
 | > Blockquote    | Blockquote    |
+| 1. First Item   |  Ordered List |
 
 __Conclusion__: Markdown is a markup language for formatting text by using a plain text editor. Markdown was created by John Gruber back in 2004 as an easy way to write markup languages. Common usages for Markdown are for blogging, instant messaging and large language models. You can learn more about Markdown by going the the Markdown Guide at: [https://www.markdownguide.org/getting-started/]. 
    
